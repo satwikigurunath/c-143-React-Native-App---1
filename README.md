@@ -1,1 +1,2 @@
-# c-143-React-Native-App---1
+# imdb-moive-recommendation-stage-1
+Movie Recommendation app
